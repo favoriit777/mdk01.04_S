@@ -1,1 +1,10 @@
-# favoriit777-mdk01.04_S
+<a href="https://github.com/favoriit777/mdk01.04/tree/main/pr01">Практическая работа 1</a><br>
+<a href="https://github.com/favoriit777/mdk01.04/tree/main/pr02">Практическая работа 2</a><br>
+<a href="https://github.com/favoriit777/mdk01.04/tree/main/pr03">Практическая работа 3</a><br>
+<a href="https://github.com/favoriit777/mdk01.04/tree/main/pr04">Практическая работа 4</a><br>
+<a href="https://github.com/favoriit777/mdk01.04/tree/main/pr05">Практическая работа 5</a><br>
+<a href="https://github.com/favoriit777/mdk01.04/tree/main/pr06">Практическая работа 6</a><br>
+<a href="https://github.com/favoriit777/mdk01.04/tree/main/pr07">Практическая работа 7</a><br>
+<a href="https://github.com/favoriit777/mdk01.04/tree/main/pr08">Практическая работа 8</a><br>
+<a href="https://github.com/favoriit777/mdk01.04/tree/main/pr09">Практическая работа 9</a><br>
+<a href="https://github.com/favoriit777/mdk01.04/tree/main/pr10">Практическая работа 10</a><br>
